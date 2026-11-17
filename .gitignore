@@ -1,0 +1,6 @@
+SSHole/
+SSHole.zip
+*.key
+*.pem
+*.ppk
+.env
